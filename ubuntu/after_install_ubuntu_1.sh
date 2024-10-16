@@ -26,6 +26,7 @@ fi
 # 安装一些软件
 sudo apt install -y curl
 sudo apt install -y git
-sudo apt install -y htopls
+sudo apt install -y htop
+sudo apt install -y pigz
 
 echo "所有软件安装完成！"
