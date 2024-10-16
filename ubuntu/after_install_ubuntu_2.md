@@ -9,6 +9,8 @@
 # 0. linux 系统入门
 1. [Linux 教程 | 菜鸟教程](https://www.runoob.com/linux/linux-tutorial.html)：这是一个完整的 Linux 入门教程，适合新手快速上手。
 2. [Linux 常用操作命令大全（最后更新时间：2024年1月）](https://blog.csdn.net/m0_46422300/article/details/104645072)：提供了常用 Linux 命令的详细列表，最后更新时间为2024年1月。
+3. [Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)：一个基于git的代码托管平台，付费用户可以建私人仓库，我们一般的免费用户只能使用公共仓库，也就是代码要公开。
+4. [Markdown 教程](https://www.runoob.com/w3cnote/git-guide.html)：一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
 
 ## 0.1 在开始基于 vscode 使用 MOOSE 之前
 1. **创建 GitHub 账号**  
